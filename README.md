@@ -2,10 +2,9 @@
 
 - 🔭 I’m currently working on 4D applications and React/JS/TS.
 - 🌱 I'm trying to learn Python and Chialisp, when I found time.
-- 👯 I’m looking to collaborate on different 4D or Chia related projects.
+- 🛠 I’m looking to collaborate on different 4D or Chia related projects.
 - 💬 Ask me about 4D, I may help you 😇.
 - 📫 How to reach me: gabriel@inzirillo.dev
-- 😄 Pronouns: Ganbin, Gaby or Gabriel
 - ⚡ Fun fact: I like to listen reggae music, running in nature, grow some vegetable and pick nice greens in the bush to eat healthy food. Chia farmer since 2021. Traveling the world.
 
 
