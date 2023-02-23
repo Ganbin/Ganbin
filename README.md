@@ -5,7 +5,7 @@
 - 🛠 I’m looking to collaborate on different 4D or Chia related projects.
 - 💬 Ask me about 4D, I may help you 😇.
 - 📫 How to reach me: gabriel@inzirillo.dev
-- ⚡ Fun fact: I like to listen reggae music, running in nature, grow some vegetable and pick nice greens in the bush to eat healthy food. Chia farmer since 2021. Traveling the world.
+- ⚡ Fun fact: I like to listen reggae music, running (in the nature as much as possible), grow some vegetable and pick nice greens in the bush to eat healthy food. Chia farmer since 2021. Traveling the world.
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ganbin&count_private=true&show_icons=true&theme=vue-dark" />
