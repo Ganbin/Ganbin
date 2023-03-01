@@ -1,10 +1,10 @@
 ### Hello World 👋
 
-- 🔭 I’m currently working on 4D applications and React/JS/TS.
-- 🌱 I'm trying to learn Python and Chialisp, when I found time.
+- 🔭 I’m currently working with 4D and React/JS/TS.
+- 🌱 I'm trying to learn Python and Chialisp, when I find time.
 - 🛠 I’m looking to collaborate on different 4D or Chia related projects.
 - 💬 Ask me about 4D, I may help you 😇.
-- 📫 How to reach me: gabriel@inzirillo.dev
+- 📫 How to reach me: [mail](mailto:gabriel@inzirillo.dev), [Twitter](https://twitter.com/Ganbin1)
 - ⚡ Fun fact: I like to listen reggae music, running (in the nature as much as possible), grow some vegetable and pick nice greens in the bush to eat healthy food. Chia farmer since 2021. Traveling the world.
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
