@@ -10,6 +10,6 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ganbin&count_private=true&show_icons=true&theme=vue-dark" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganbin&layout=donut" />
 </a>
