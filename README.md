@@ -7,10 +7,12 @@
 - 📫 How to reach me: [mail](mailto:gabriel@inzirillo.dev), [Twitter](https://twitter.com/Ganbin1)
 - ⚡ Fun fact: I like to listen reggae music, running (in the nature as much as possible). Chia farmer since 2021. Traveling the world.
 
+<!-- TODO: Fix backend
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats-h8jq-kilf1tyoo-ganbins-projects.vercel.app/api?username=ganbin&count_private=true&show_icons=true&theme=vue-dark" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats-h8jq-kilf1tyoo-ganbins-projects.vercel.app/api/top-langs/?username=ganbin&layout=donut" />
 </a>
+-->
 
