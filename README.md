@@ -1,7 +1,7 @@
 ### Hello World 👋
 
 - 🔭 I’m currently working with 4D and React/JS/TS.
-- 🌱 I'm trying to learn Python and Chialisp, when I find time.
+- 🌱 I'm learning Rust, Python and Chialisp, when I find time.
 - 🛠 I’m looking to collaborate on different 4D or Chia related projects.
 - 💬 Ask me about 4D, I may help you 😇.
 - 📫 How to reach me: [mail](mailto:gabriel@inzirillo.dev), [Twitter](https://twitter.com/Ganbin1)
